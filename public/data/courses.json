@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "Big 4 Auditor Financial Analyst",
+    "desc": "Belajar analisa keuangan dari profesional Big 4",
+    "instructor": "Jenna Ortega",
+    "company": "Gojek",
+    "rating": 4.5,
+    "reviews": 86,
+    "price": 300000,
+    "category": "Bisnis",
+    "image": "/kursus.jpg",
+    "avatar": "/Avatar.png"
+  },
+  {
+    "id": 2,
+    "title": "Desain Grafis Profesional",
+    "desc": "Pelajari prinsip desain modern dan tools Adobe",
+    "instructor": "Andrew Tate",
+    "company": "Figma",
+    "rating": 4.8,
+    "reviews": 120,
+    "price": 250000,
+    "category": "Desain",
+    "image": "/kursus2.jpg",
+    "avatar": "/Avatar.png"
+  },
+  {
+    "id": 3,
+    "title": "Digital Marketing Mastery",
+    "desc": "Strategi pemasaran digital dari dasar hingga advanced",
+    "instructor": "Samantha Lee",
+    "company": "HubSpot",
+    "rating": 4.7,
+    "reviews": 95,
+    "price": 200000,
+    "category": "Pemasaran",
+    "image": "/kursus3.jpg",
+    "avatar": "/Avatar.png"
+  },
+  {
+    "id": 4,
+    "title": "Personal Development 101",
+    "desc": "Kembangkan diri, produktivitas, dan mindset positif",
+    "instructor": "John Doe",
+    "company": "SelfGrowth",
+    "rating": 4.3,
+    "reviews": 70,
+    "price": 150000,
+    "category": "Pengembangan Diri",
+    "image": "/kursus4.jpg",
+    "avatar": "/Avatar.png"
+  },
+  {
+    "id": 5,
+    "title": "Entrepreneurship for Beginners",
+    "desc": "Belajar memulai bisnis dari ide hingga eksekusi",
+    "instructor": "Emily Clark",
+    "company": "StartupHub",
+    "rating": 4.6,
+    "reviews": 110,
+    "price": 350000,
+    "category": "Bisnis",
+    "image": "/kursus5.jpg",
+    "avatar": "/Avatar.png"
+  }
+]
